@@ -1,0 +1,9 @@
+.alinha-card{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+
+}
+.card{
+    margin: 15px;
+}
